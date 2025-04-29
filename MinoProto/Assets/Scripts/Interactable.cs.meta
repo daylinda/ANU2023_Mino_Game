@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb8960343e0f7bb44aaae6af1aa80a5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flowerOrderManager: {instanceID: 0}
+  - gUIManager: {instanceID: 0}
+  - rotatingLightManager: {instanceID: 0}
+  - interactSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
